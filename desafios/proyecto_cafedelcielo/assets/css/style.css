@@ -1,0 +1,59 @@
+/* style.css */
+.header {
+    height: 20em;
+    background-image: url("../imgs/mike-kenneally-TD4DBagg2wE-unsplash4.png");
+    background-size: cover;
+    background-position: center;
+    color:aliceblue;
+    }
+
+    .header h1 {
+        margin:0px;
+    }
+
+    body {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+        Geneva, Verdana, sans-serif;
+        }
+        .header {
+            height: 4em;
+            padding: 3em;
+            font-size: 1.5em;
+            background-image: url("../imgs/mike-kenneally-TD4DBagg2wE-unsplash4.png");
+            background-size: cover;
+            background-position: center;
+            }
+            .header h1 {
+            margin: 0px;
+            font-weight: 300;
+            }
+
+        body {
+            font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+            "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+        }
+
+.products {
+    width: 80%;
+    margin: auto;
+    font-weight: 900;
+    font-size: 1.5em;
+    color: rgb(144, 85, 25);
+    }
+    .products td {
+    width: 50%;
+    padding: 2em;
+    }
+    .products img {
+    width: 100%;
+    border: solid 2px rgb(185, 112, 41);
+    }
+
+    .footer {
+        height: 5em;
+        line-height: 5em;
+        background-color: rgb(103, 56, 10);
+        color: white;
+        text-align: center;
+        font-weight: 900;
+        }
